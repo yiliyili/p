@@ -1,0 +1,21 @@
+{
+    "name": "yiliyili/p",
+    "description": "PHP library to quick print",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yiliyili",
+            "email": "xxxxx@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "files": [
+        	"p.php"
+        ]
+    }
+}
+
